@@ -1,7 +1,3 @@
-## GrocerGo Store
-
-Website: [click here](https://grocergo.vercel.app/)
-
 **Overview**
 This repository contains the source code for a professional and modern grocery store website built with Next.js, Tailwind CSS, Framer Motion, Material-UI, Local Storage, Fetch API and more. This project aims to demonstrate my front-end skills providing a seamless online shopping experience for users looking to purchase groceries.
 
@@ -26,12 +22,6 @@ This repository contains the source code for a professional and modern grocery s
 - app/: Next.js page components.
 - app/styles/: Stylesheets.
 - public/: Static assets such as images.
-
-**Dependencies**
-- Next.js: ^14.0.3
-- Tailwind CSS: ^3.3.3
-- Framer Motion: ^10.16.1
-- Material-UI: ^5.14.9
 
 **License**
 
